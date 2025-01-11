@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your **GitHub Activity CLI** project:
 
----
 
 # GitHub Activity CLI
 
